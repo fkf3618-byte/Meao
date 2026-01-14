@@ -1,0 +1,9 @@
+{
+  "name": "SecureNotify Access Portal",
+  "description": "A high-security login portal featuring advanced browser notification management and AI-driven security insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
